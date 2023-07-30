@@ -6,7 +6,6 @@
 -- import: package/social-buttons as social
 
 
-
 ;; -------------------------------------------------------------------------
 ;; ***** PORTFOLIO Layout starts *****
 ;; -------------------------------------------------------------------------
@@ -42,7 +41,7 @@ cta-item2-link: /portfolio/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/dew987.github.io
+link: https://github.com/dew987
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -84,9 +83,9 @@ secondTitle: Programmer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: Passionate about problem solving and fasinated by web development, Turning ideas into reality, one line of code at a time!
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -171,14 +170,14 @@ firstTitle: I'm
 secondTitle: Dewanshu Satpute,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
-secondTitle: developer
+firstTitle: Competetive
+secondTitle: Programmer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: Explorer.
 
--- ftd.text: I design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: Passionate about problem solving and fasinated by web development, Turning ideas into reality, one line of code at a time!
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
@@ -215,7 +214,7 @@ link: https://twitter.com/YOUR_TWITTER_USERNAME
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
